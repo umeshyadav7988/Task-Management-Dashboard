@@ -32,7 +32,6 @@ This is a Task Management Dashboard built with Vue.js that allows users to manag
   - Users can sync their tasks across multiple devices in real-time using the API.
 
 ## Tech Stack
-
 - **Frontend**: Vue.js, Vue Router, Vue Draggable
 - **Backend**: Custom API endpoint (Mock API)
 - **State Management**: Vuex 
